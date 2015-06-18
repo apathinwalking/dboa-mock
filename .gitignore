@@ -7,3 +7,7 @@ gen
 #vendor stuff
 node_modules
 node_modules/*
+
+#personal tests
+tests
+tests/*
